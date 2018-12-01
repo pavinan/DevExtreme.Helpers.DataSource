@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Bharat.DevExtreme.Helpers.DataSource</id>
+    <version>$version$</version>
+    <title>Bharat.DevExtreme.Helpers.DataSource</title>
+    <authors>Bharat</authors>
+    <owners>Bharat</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/pavinan/DevExtreme.Helpers.DataSource</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Creates a sql where clause from DevExtreme remote datasource with filtering.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>DevExtreme Filters WhereClause SQL</tags>
+  </metadata>
+</package>
