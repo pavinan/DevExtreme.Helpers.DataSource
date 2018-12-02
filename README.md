@@ -21,3 +21,5 @@ In sql you can write
 ```sql
 Exec('Select * from customers where ' + @sqlWhereClause);
 ```
+
+There is an overloaded version of `WhereClauseBuilder` you can provide your own implentation `ISQLColumnProvider` if you are using table aliases you can customize there.
