@@ -13,11 +13,11 @@ var sqlWhereClause = Builder.BuildFor(jarray);
 ```
 
 Outputs:
-
+```
 CustomerID = "ALFKI"
+```
 
-in sql you can write.
-
+In sql you can write
 ```sql
 Exec('Select * from customers where ' + @sqlWhereClause);
 ```
